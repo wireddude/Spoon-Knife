@@ -1,8 +1,8 @@
-	Press enter to submit commands
-	> git status
-	# On branch master
-	# Initial commit
-	nothing to commit (create/copy files and use "git add" to track)
+    Press enter to submit commands
+    > git status
+    # On branch master
+    # Initial commit
+    nothing to commit (create/copy files and use "git add" to track)
     Success!
     $ git status
     # On branch master
